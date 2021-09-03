@@ -1,0 +1,6 @@
+t	 TRUE
+th	 TRUE
+thi	 TRUE
+this	 TRUE
+that	 TRUE
+these	 TRUE
